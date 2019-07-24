@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComcastApp</string>
+    <string name="character_names">Characters</string>
+    <string name="character_detail">Character Detail</string>
+    <string name="no_characters_available">No Characters found</string>
+    <string name="no_network">No internet connection</string>
+</resources>
